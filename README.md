@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juan.correa.swe@gmail.com**
 
-- ⚡ Fun fact **Born and raised anime lover and video game enthusiast**
+- ⚡ Fun fact **Born and raised Anime and Video Game enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
