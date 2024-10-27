@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Correa</h1>
-<h3 align="center">A growing full stack with a passion for gaming and gameplay engineering</h3>
+<h3 align="center">A growing full stack developer with a passion for gaming and gameplay engineering</h3>
 
 - 🌱 I’m currently learning **React Native and Unity**
 
